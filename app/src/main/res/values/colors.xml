@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="main_bg">#fff5f5f5</color>
+    <color name="line_bg">#F2F2F2</color>
+    <color name="line_color1">#ffc3c3c3</color>
+    <!--<color name="main_app_color">#ffff8836</color>-->
+    <color name="main_app_color">#FC377D</color>
+    <color name="transparent">#00000000</color>
+    <color name="transparent_">#60000000</color>
+
+    <color name="banner_red">#FF0065</color>
+    <color name="banner_bg">#50ffffff</color>
+    <color name="text_default">#9E9E9E</color>
+    <color name="white">#ffffffff</color>
+    <color name="black">#000000</color>
+
+    <color name="empty_red">#F22F2F</color>
+
+    <color name="goods_black">#2F1616</color>
+
+    <!--homepage-->
+    <color name="layout_gray_bg">#ffefefef</color>
+
+    <color name="black_bg">#181818</color>
+    <color name="member_bg">#FFD28A</color>
+    <color name="pay_text">#555555</color>
+
+    <color name="home_text_bg">#FF3D21</color>
+    <color name="search_edittext_bg">#CCCCCC</color>
+    <color name="me_goods_title_text">#2D2D2D</color>
+    <color name="me_goods_text_red_bg">#F30000</color>
+    <color name="home_hot_adapter_bg">#F1F2F6</color>
+    <color name="home_hot_adapter_red_bg">#FA430C</color>
+
+    <color name="hot_integral">#ffd1d2</color>
+    <color name="hot_red">#F4575A</color>
+
+    <color name="rush_color">#F42A2A</color>
+
+    <color name="recharge_bg">#ECECEC</color>
+
+    <!--register-->
+    <color name="register_vcode_bg">#FE744A</color>
+    <color name="register_text_hint_bg">#D8D8D8</color>
+
+    <!--login-->
+    <color name="login_title_text">#282828</color>
+    <color name="login_text">#535353</color>
+
+    <!--setting-->
+    <color name="setting_title_color">#FC377D</color>
+    <color name="setting_red_color">#E84545</color>
+
+    <!--goods-->
+    <color name="goods_red">#e30d0f</color>
+    <color name="jifen_bg">#508FE0</color>
+
+    <color name="goods_coupon_text">#747474</color>
+
+    <color name="tv_click_bg">#fff4f7</color>
+
+    <color name="head_title_bg">#290d0d0d</color>
+
+    <color name="home_bg">#D980FF</color>
+    <color name="home_self_mall">#A93AC7</color>
+    <color name="home_hot_text_bg">#577CEB</color>
+    <color name="goods_car_bg">#FF7D8D</color>
+    <color name="pop_text_bg">#222222</color>
+    <color name="order_bg">#363B4F</color>
+
+    <color name="phone_dialog_red">#EB2222</color>
+
+    <color name="dialog_red">#EB2222</color>
+
+    <color name="red_text">#FC3D77</color>
+
+    <color name="red_">#FC3D77</color>
+</resources>
